@@ -1,0 +1,4 @@
+wind_speed,temperature,humidity,precipitation,tree_pollen,grass_pollen,weed_pollen,total_pollen,wind_direction_SW,wind_direction_W
+24.0,24.0,81.7,0.1,41,69,29,139,False,True
+22.6,23.4,83.4,1.0,21,71,13,105,False,True
+27.6,23.3,81.0,0.8,71,73,48,192,False,True
